@@ -1,22 +1,22 @@
-# Teste p/ Desenvolvedor MJV
+# Evento 
 
 Propomos um teste unificado para a avaliação de desenvolvedores Frontend/Backend/Full-stack com base em diferentes tópicos que podem ser escolhidos de acordo com os conhecimentos do candidato. 
 
-O objetivo do teste é montar parte(s) de um sistema de loja virtual e **atingir uma somatória de 100 pontos** entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. Sugerimos cerca de 2 funcionalidades a serem feitas para atingir a pontuação.
+O objetivo do teste é montar parte(s) de um sistema de loja virtual e entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. Sugerimos cerca de 2 funcionalidades a serem feitas para atingir a pontuação.
 
 Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuações máximas em parênteses:
-- Menu de Categorias  (20 pontos)
-- Lista de produtos (vitrine) (50 pontos)
-- Busca de produtos (30 pontos)
-- Detalhe de Produto (30 pontos)
-- Type-ahead (auto-complete) para busca de produtos (30 pontos)
-- Carrinho de compras (50 pontos)
-- Cadastro de usuário (30 pontos)
-- Login (35 pontos)
-- Página do usuário (20 pontos)
-- Lista de produtos (administrativo) (35 pontos)
-- Paginação (10 pontos p/ paginação client-side, 20 pontos p/ paginação server-side)
-- Cadastro de produto (25 pontos)
+- Menu de Categorias
+- Lista de produtos (vitrine)
+- Busca de produtos
+- Detalhe de Produto
+- Type-ahead (auto-complete) para busca de produtos
+- Carrinho de compras
+- Cadastro de usuário
+- Login
+- Página do usuário
+- Lista de produtos (administrativo)
+- Paginação
+- Cadastro de produto
 
 Para desenvolvedores Frontend pode-se mockar os dados no front, mas a demonstração de consumo de APIs é recomendada.
 
@@ -33,112 +33,112 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em par�
 ## Tópicos Comums (Front/Back): 
 
 **Javascript**
-- Demonstrar boa legibilidade de código (+10)
-- Demonstrar domínio de lógica de programação (+10)
-- Demonstrar uso de funcionalidades novas no Javascript (ex: async/wait, spread operators, arrow functions, template literals, etc) (+3)
-- Demonstrar conhecimento de programação orientada a objetos (+3)
-- Demonstrar conhecimento de programação funcional (+10)
-- Utilização de estruturas imutáveis de dados (+3)
-- Documentação com JSDocs (+3)
-- Utilização de scripts npm (+2)
-- Encadeamento de Promises (+5)
+- Demonstrar boa legibilidade de código 
+- Demonstrar domínio de lógica de programação 
+- Demonstrar uso de funcionalidades novas no Javascript (ex: async/wait, spread operators, arrow functions, template literals, etc)
+- Demonstrar conhecimento de programação orientada a objetos
+- Demonstrar conhecimento de programação funcional 
+- Utilização de estruturas imutáveis de dados
+- Documentação com JSDocs
+- Utilização de scripts npm
+- Encadeamento de Promises
 
 **Typescript**
-- Demonstrar conhecimento e aplicação de Typescript (interfaces, tipos, união/intersecção de tipos, literais, etc) (+10)
-- Utilizar opções de compilação restritas (ex: strict: true) (+5)
-- Utilizar opção de compilação *strictNullChecks* com uso de tipos null/undefined (+5)
-- Utilização de type-guards (+3)
-- Utilização de types auxiliares (ex: Required, Record, etc) (+3)
-- Utilização de Generics (+3)
+- Demonstrar conhecimento e aplicação de Typescript (interfaces, tipos, união/intersecção de tipos, literais, etc) 
+- Utilizar opções de compilação restritas (ex: strict: true)
+- Utilizar opção de compilação *strictNullChecks* com uso de tipos null/undefined
+- Utilização de type-guards
+- Utilização de types auxiliares (ex: Required, Record, etc)
+- Utilização de Generics
 
 **Linter**
-- Aplicar uso de linter p/ normalizar o estilo do projeto (ex: ESLint, TSLInt) (+5)
+- Aplicar uso de linter p/ normalizar o estilo do projeto (ex: ESLint, TSLInt)
 
 **Testes**
-- Demonstrar conhecimento de testes unitários (+10)
-- Demonstrar conhecimento de mock p/ dependências de classe(+5)
-- Atingir bom nível de code-coverage com testes (+10)
+- Demonstrar conhecimento de testes unitários 
+- Demonstrar conhecimento de mock p/ dependências de class
+- Atingir bom nível de code-coverage com testes 
 
 **Git**
-- Demonstrar boa atomicidade nos commits (ex: único commit por funcionalidade ou bugfix) (+5)
-- Demonstrar bom uso de mensagens de commit (+5)
-- Utilizar algum formato padrão de mensagens de commit (+5)
+- Demonstrar boa atomicidade nos commits (ex: único commit por funcionalidade ou bugfix)
+- Demonstrar bom uso de mensagens de commit
+- Utilizar algum formato padrão de mensagens de commit
 
 **Publicação**
-- Publicação de frontend p/ acesso online (+5)
-- Publicação de backend p/ acesso online (+15)
+- Publicação de frontend p/ acesso online
+- Publicação de backend p/ acesso online 
 
 ## Tópicos de Frontend: 
-- Criação de aplicação web (+10)
-- Uso de requisições HTTP (+10)
+- Criação de aplicação web 
+- Uso de requisições HTTP 
 
 **HTML/CSS**
-- Layout Visual (+25)
-- Demonstrar boa aplicação de layout (+5)
-- Demonstrar uso de layout responsível (+5)
-- Demonstrar conhecimento de flex-box (+5)
-- Demonstrar conhecimento de animações CSS (+5)
-- Fazer uso de algum padrão de CSS (BEM, SMACSS) (+10)
-- Utilizar e fazer uso de recursos de algum framework CSS (ex: SCSS, Stylus, Less, etc) (+5)
+- Layout Visual 
+- Demonstrar boa aplicação de layout
+- Demonstrar uso de layout responsível
+- Demonstrar conhecimento de flex-box
+- Demonstrar conhecimento de animações CSS
+- Fazer uso de algum padrão de CSS (BEM, SMACSS) 
+- Utilizar e fazer uso de recursos de algum framework CSS (ex: SCSS, Stylus, Less, etc)
 
 **UX**: 
-- Demonstrar boa navegabilidade (+5)
-- Utilizar animações/elementos para guiar a experiência do usuário (ex: Indicadores de carregamento, transições de estado/página) (+10)
-- Configuração de Progressive-web-app (+10)
+- Demonstrar boa navegabilidade
+- Utilizar animações/elementos para guiar a experiência do usuário (ex: Indicadores de carregamento, transições de estado/página) 
+- Configuração de Progressive-web-app 
 
 **Angular**
-- Demonstrar boas práticas de arquitetura (+10)
-- Utilizar rotas (+5)
-- Utilizar módulos (+5)
-- Utilizar módulos lazy-loaded (+5)
-- Utilizar serviços (+5)
-- Configuração e consumo de bibliotecas externas (ex. Angular Material) (+5)
-- Demonstrar animações utilizando a API do Angular (+5)
-- Utilizar biblioteca p/ gerenciamento de estado (ex: Apollo Client, NgRx, Akita, Angular-Redux, etc) (+15)
-- Tuning de performance de componentes (+5)
-- Configuração de interceptador de request (+5)
+- Demonstrar boas práticas de arquitetura 
+- Utilizar rotas
+- Utilizar módulos
+- Utilizar módulos lazy-loaded
+- Utilizar serviços
+- Configuração e consumo de bibliotecas externas (ex. Angular Material)
+- Demonstrar animações utilizando a API do Angular
+- Utilizar biblioteca p/ gerenciamento de estado (ex: Apollo Client, NgRx, Akita, Angular-Redux, etc) 
+- Tuning de performance de componentes
+- Configuração de interceptador de request
 
 **RxJS**
-- Demonstrar uso de operadores RxJS (ex. debounce de key strokes, retentativas de request) (+10)
-- Demonstrar uso de Subjects (ex: armazenamento de estado) (+10)
-- Demonstrar tratamento de erros (+5)
+- Demonstrar uso de operadores RxJS (ex. debounce de key strokes, retentativas de request) 
+- Demonstrar uso de Subjects (ex: armazenamento de estado) 
+- Demonstrar tratamento de erros
 
 **React**
-- Demonstrar boas práticas de arquitetura (+10)
-- Utilização de functional components (+5)
-- Utilização de React Hooks (+5)
-- Utilização de Higher-Order-Components (+5)
-- Utilização de pattern de container/presentational components (+5)
-- Utilização de algum gerenciador de estado (Apollo Client, Redux, MobX, etc) (+15)
-- Integração com outras bibliotecas (+5)
-- Lazy-load de componentes (+5)
-- Utilização com Typescript (+10)
+- Demonstrar boas práticas de arquitetura 
+- Utilização de functional components
+- Utilização de React Hooks
+- Utilização de Higher-Order-Components
+- Utilização de pattern de container/presentational components
+- Utilização de algum gerenciador de estado (Apollo Client, Redux, MobX, etc) 
+- Integração com outras bibliotecas
+- Lazy-load de componentes
+- Utilização com Typescript 
 
 ## Tópicos de Backend:
 
 **NodeJS** 
-- Criação de aplicação NodeJS (+10)
-- Uso de banco de dados relacional/não relacional (+10)
-- Script p/ estrutura do banco (+15)
-- Script p/ popular banco (+10)
-- Utilização de middlewares (+5)
-- Utilização de JSON Web Tokens p/ autenticação (+10)
-- Validação de dados das requests (+5)
-- Utilizar alguma ferramenta p/ auxilar o desenvolvimento (nodemon, node-dev, ts-node-dev, etc) (+3)
+- Criação de aplicação NodeJS 
+- Uso de banco de dados relacional/não relacional 
+- Script p/ estrutura do banco 
+- Script p/ popular banco 
+- Utilização de middlewares
+- Utilização de JSON Web Tokens p/ autenticação 
+- Validação de dados das requests
+- Utilizar alguma ferramenta p/ auxilar o desenvolvimento (nodemon, node-dev, ts-node-dev, etc)
 
 **GraphQL**
-- Criação de endpoint GraphQL (+10)
-- Construir operações de Query (+10 p/ query)
-- Construir operações de Mutation (+10 p/ mutation)
-- Construir operações de Subscription (+10 p/ subscription)
-- Utilizar alguma união de tipo (+5)
+- Criação de endpoint GraphQL 
+- Construir operações de Query
+- Construir operações de Mutation
+- Construir operações de Subscription
+- Utilizar alguma união de tipo
 
 **REST**
-- Criação de endpoints REST p/ consumo do front (+5 p/ endpoint) 
-- Documentar a API com uso de Swagger (+10)
+- Criação de endpoints REST p/ consumo do front
+- Documentar a API com uso de Swagger 
 
 **Docker**
-- Configurar docker p/ as aplicações (+10)
+- Configurar docker p/ as aplicações 
 
 
 ### Ferramentas
