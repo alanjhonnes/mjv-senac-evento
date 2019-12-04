@@ -20,13 +20,11 @@ Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuaçõe
 
 Para desenvolvedores Frontend pode-se mockar os dados no front, mas a demonstração de consumo de APIs é recomendada.
 
-Para desenvolvedores Backend pode-se fazer somente a API em GraphQL ou os endpoints REST c/ Swagger.
+Para desenvolvedores Backend pode-se fazer somente a API em GraphQL ou os endpoints REST.
 
 Para desenvolvedores Full-stack, é esperado uma aplicação web consumindo um backend em GraphQL ou Rest.
 
 ### Entregáveis
-
-Nos envie um email com o(s) link(s) dos repositórios contendo os projetos e opcionalmente um link para a aplicação publicada. Cada repositório deve conter um arquivo README.md como este, explicando brevemente as funcionalidades realizadas, como rodar a aplicação, popular banco de dados etc e opcionalmente quais tópicos abordou. Caso queira publicar seu teste, sugerimos utilizar o **[Heroku](https://heroku.com.br)**, onde é possível criar publicar suas aplicações sem custo e com banco de dados Postgres/MongoDb.
 
 Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em parênteses o bônus máximo de pontuação a ser obtido ao atender o tópico. Queremos que nos mostre o seu melhor, então selecione as funcionalidades e tópicos que mais lhe darão oportunidade para mostrar os seus conhecimentos sem a necessidade de tornar o teste extenso.
 
@@ -57,16 +55,12 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em par�
 **Testes**
 - Demonstrar conhecimento de testes unitários 
 - Demonstrar conhecimento de mock p/ dependências de class
-- Atingir bom nível de code-coverage com testes 
 
 **Git**
 - Demonstrar boa atomicidade nos commits (ex: único commit por funcionalidade ou bugfix)
 - Demonstrar bom uso de mensagens de commit
 - Utilizar algum formato padrão de mensagens de commit
 
-**Publicação**
-- Publicação de frontend p/ acesso online
-- Publicação de backend p/ acesso online 
 
 ## Tópicos de Frontend: 
 - Criação de aplicação web 
@@ -116,14 +110,17 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em par�
 
 ## Tópicos de Backend:
 
-**NodeJS** 
-- Criação de aplicação NodeJS 
+**Padrão**
+- Criação de aplicação backend 
 - Uso de banco de dados relacional/não relacional 
 - Script p/ estrutura do banco 
 - Script p/ popular banco 
-- Utilização de middlewares
+- Uso de Injeção de Dependência
 - Utilização de JSON Web Tokens p/ autenticação 
 - Validação de dados das requests
+
+**NodeJS** 
+- Utilização de middlewares
 - Utilizar alguma ferramenta p/ auxilar o desenvolvimento (nodemon, node-dev, ts-node-dev, etc)
 
 **GraphQL**
@@ -140,12 +137,24 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em par�
 **Docker**
 - Configurar docker p/ as aplicações 
 
+**C#**
+- Uso de Enums
+- Uso de Tuplas
+- Uso de Generics
+- Uso de estruturas de loop
+- Uso de interfaces
+- Uso de EntityFramework (code-first)
+- Uso de engine de template (Razor, Blazor, etc)
+- Uso de Threads
+- Uso de `using` em bloco
+- Uso de dispose
+- Uso de LINQ
+- Uso de lambda-functions
+- Uso de argumentos out/ref
+- Modificadores de acesso (public/private etc)
+- Uso de Task e async/await
+- Uso de MVC
 
 ### Ferramentas
 
 Imagens de placeholder - http://lorempixel.com/
-
-Mock de APIs 
-- https://reqres.in/
-- https://www.mocky.io/
-- https://jsonplaceholder.typicode.com/
