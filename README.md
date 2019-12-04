@@ -2,7 +2,7 @@
 
 Propomos um teste unificado para a avaliação de desenvolvedores Frontend/Backend/Full-stack com base em diferentes tópicos que podem ser escolhidos de acordo com os conhecimentos do candidato. 
 
-O objetivo do teste é montar parte(s) de um sistema de loja virtual e entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. Sugerimos a escolha de uma ou duas funcionalidades para desenvolver.
+O objetivo do teste é montar parte(s) de um sistema de loja virtual entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. **Sugerimos a escolha de uma ou duas funcionalidades para desenvolver.**
 
 Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuações máximas em parênteses:
 - Menu de Categorias
@@ -18,24 +18,24 @@ Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuaçõe
 - Paginação
 - Cadastro de produto
 
-Para desenvolvedores Frontend pode-se mockar os dados no front, mas a demonstração de consumo de APIs é recomendada.
+**Para desenvolvedores Frontend** pode-se mockar os dados no front, mas a demonstração de consumo de APIs é recomendada.
 
-Para desenvolvedores Backend pode-se fazer somente a API em GraphQL ou os endpoints REST.
+**Para desenvolvedores Backend** pode-se fazer somente a API em GraphQL ou os endpoints REST.
 
-Para desenvolvedores Full-stack, é esperado uma aplicação web consumindo um backend em GraphQL ou Rest.
+**Para desenvolvedores Full-stack**, é esperado uma aplicação MVC ou SPA consumindo um backend em GraphQL ou Rest.
 
 ### Entregáveis
 
-Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em parênteses o bônus máximo de pontuação a ser obtido ao atender o tópico. Queremos que nos mostre o seu melhor, então selecione as funcionalidades e tópicos que mais lhe darão oportunidade para mostrar os seus conhecimentos sem a necessidade de tornar o teste extenso.
+Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Queremos que nos mostre o seu melhor, então selecione as funcionalidades e tópicos que mais lhe darão oportunidade para mostrar os seus conhecimentos.
 
 ## Tópicos Comums (Front/Back): 
 
 **Javascript**
-- Demonstrar boa legibilidade de código 
-- Demonstrar domínio de lógica de programação 
+- Demonstrar boa legibilidade de código
+- Demonstrar domínio de lógica de programação
 - Demonstrar uso de funcionalidades novas no Javascript (ex: async/wait, spread operators, arrow functions, template literals, etc)
 - Demonstrar conhecimento de programação orientada a objetos
-- Demonstrar conhecimento de programação funcional 
+- Demonstrar conhecimento de programação funcional
 - Utilização de estruturas imutáveis de dados
 - Documentação com JSDocs
 - Utilização de scripts npm
