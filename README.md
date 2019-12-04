@@ -2,11 +2,11 @@
 
 Propomos um teste unificado para a avaliação de desenvolvedores Frontend/Backend/Full-stack com base em diferentes tópicos que podem ser escolhidos de acordo com os conhecimentos do candidato. 
 
-O objetivo do teste é montar parte(s) de um sistema de loja virtual e entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. Sugerimos cerca de 2 funcionalidades a serem feitas para atingir a pontuação.
+O objetivo do teste é montar parte(s) de um sistema de loja virtual e entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. Sugerimos a escolha de uma ou duas funcionalidades para desenvolver.
 
 Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuações máximas em parênteses:
 - Menu de Categorias
-- Lista de produtos (vitrine)
+- Lista de produtos
 - Busca de produtos
 - Detalhe de Produto
 - Type-ahead (auto-complete) para busca de produtos
@@ -118,6 +118,7 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em par�
 - Uso de Injeção de Dependência
 - Utilização de JSON Web Tokens p/ autenticação 
 - Validação de dados das requests
+- Utilização de ORM
 
 **NodeJS** 
 - Utilização de middlewares
@@ -143,7 +144,6 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack e em par�
 - Uso de Generics
 - Uso de estruturas de loop
 - Uso de interfaces
-- Uso de EntityFramework (code-first)
 - Uso de engine de template (Razor, Blazor, etc)
 - Uso de Threads
 - Uso de `using` em bloco
