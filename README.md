@@ -154,6 +154,7 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 - Modificadores de acesso (public/private etc)
 - Uso de Task e async/await
 - Uso de MVC
+- Uso de annotations
 
 ### Ferramentas
 
