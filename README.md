@@ -160,3 +160,23 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 ### Ferramentas
 
 Imagens de placeholder - http://lorempixel.com/
+
+### Boilerplates para GITPOD 
+
+Faça o fork de algum desses projetos para começar o desafio! 
+
+Frontend
+[Angular]
+[React]
+[React + TypeScript]
+[Vue] 
+[Vue + TypeScript] 
+
+BACKEND 
+[Node.js express] 
+[Node.js NestJs] 
+[Java Springboot] 
+[C#.Net Core] 
+
+Todos os boilerplates possuem bancos MYSQL, PostgreSQL e MONGODB para serem usados conforme a preferência. 
+
