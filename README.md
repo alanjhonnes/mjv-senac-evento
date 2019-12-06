@@ -16,11 +16,11 @@ Sugestões de funcionalidades a serem desenvolvidas:
 - Paginação
 - Cadastro de produto
 
-**Para desenvolvedores Frontend** pode-se mockar os dados no front, mas a demonstração de consumo de APIs é recomendada.
+**Para desenvolvedores Frontend** é esperado uma aplicação SPA, pode-se mockar os dados no front para simular requests e estados de carregamento/erros.
 
-**Para desenvolvedores Backend** pode-se fazer somente a API em GraphQL ou os endpoints REST.
+**Para desenvolvedores Backend** pode-se fazer um sistema MVP ou uma API em GraphQL ou somente os endpoints REST(utilizar swagger se possível para documentar os endpoints) 
 
-**Para desenvolvedores Full-stack**, é esperado uma aplicação MVC ou SPA consumindo um backend em GraphQL ou Rest.
+**Para desenvolvedores Full-stack**, é esperado uma aplicação MVC ou SPA consumindo um backend em GraphQL ou REST.
 
 ### Entregáveis
 
