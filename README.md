@@ -156,6 +156,7 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 - Uso de Task e async/await
 - Uso de MVC
 - Uso de annotations
+- Uso de Collections
 
 ### Ferramentas
 
@@ -166,17 +167,19 @@ Imagens de placeholder - http://lorempixel.com/
 Faça o fork de algum desses projetos para começar o desafio! 
 
 Frontend
-[Angular]
-[React]
-[React + TypeScript]
-[Vue] 
-[Vue + TypeScript] 
+[Angular](https://github.com/alanjhonnes/mjv-angular-gitpod)
+[React](https://github.com/alanjhonnes/mjv-react-js-gitpod)
+[React + TypeScript](https://github.com/alanjhonnes/mjv-react-ts-gitpod)
+[Vue]() 
+[Vue + TypeScript]()
 
 BACKEND 
-[Node.js express] 
-[Node.js NestJs] 
-[Java Springboot] 
-[C#.Net Core] 
+[Node.js express]()
+[Node.js NestJs]()
+[Java Springboot]()
+[C#.Net Core]()
+[PHP Symfony]()
+[PHP Laravel]()
 
 Todos os boilerplates possuem bancos MYSQL, PostgreSQL e MONGODB para serem usados conforme a preferência. 
 
