@@ -1,10 +1,8 @@
-# Evento 
+# Desafio MJV 
 
-Propomos um teste unificado para a avaliação de desenvolvedores Frontend/Backend/Full-stack com base em diferentes tópicos que podem ser escolhidos de acordo com os conhecimentos do candidato. 
+Seu desafio é montar partes de um sistema de loja virtual entre funcionalidades e tópicos demonstrados. **Sugerimos a escolha de uma ou duas funcionalidades para desenvolver.** 
 
-O objetivo do teste é montar parte(s) de um sistema de loja virtual entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. **Sugerimos a escolha de uma ou duas funcionalidades para desenvolver.**
-
-Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuações máximas em parênteses:
+Sugestões de funcionalidades a serem desenvolvidas:
 - Menu de Categorias
 - Lista de produtos
 - Busca de produtos
@@ -25,6 +23,8 @@ Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuaçõe
 **Para desenvolvedores Full-stack**, é esperado uma aplicação MVC ou SPA consumindo um backend em GraphQL ou Rest.
 
 ### Entregáveis
+
+Envie um e-mail para alan.sa@mjv.com.br com o link do github do seu projeto. Crie um arquivo README.md e descreva as funcionalidades que foram desenvolvidas e instruções para rodar e acessar o projeto. 
 
 Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Queremos que nos mostre o seu melhor, então selecione as funcionalidades e tópicos que mais lhe darão oportunidade para mostrar os seus conhecimentos.
 
@@ -49,12 +49,18 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 - Utilização de types auxiliares (ex: Required, Record, etc)
 - Utilização de Generics
 
+**RxJS**
+- Demonstrar uso de operadores RxJS (ex. debounce de key strokes, retentativas de request) 
+- Demonstrar uso de Subjects (ex: armazenamento de estado) 
+- Demonstrar tratamento de erros
+
+
 **Linter**
 - Aplicar uso de linter p/ normalizar o estilo do projeto (ex: ESLint, TSLInt)
 
 **Testes**
 - Demonstrar conhecimento de testes unitários 
-- Demonstrar conhecimento de mock p/ dependências de class
+- Demonstrar conhecimento de mocks/stubs/spies
 
 **Git**
 - Demonstrar boa atomicidade nos commits (ex: único commit por funcionalidade ou bugfix)
@@ -91,11 +97,6 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 - Utilizar biblioteca p/ gerenciamento de estado (ex: Apollo Client, NgRx, Akita, Angular-Redux, etc) 
 - Tuning de performance de componentes
 - Configuração de interceptador de request
-
-**RxJS**
-- Demonstrar uso de operadores RxJS (ex. debounce de key strokes, retentativas de request) 
-- Demonstrar uso de Subjects (ex: armazenamento de estado) 
-- Demonstrar tratamento de erros
 
 **React**
 - Demonstrar boas práticas de arquitetura 
