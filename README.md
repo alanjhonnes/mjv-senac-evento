@@ -1,6 +1,6 @@
 # Desafio MJV 
 
-Seu desafio é montar partes de um sistema de loja virtual entre funcionalidades e tópicos demonstrados. **Sugerimos a escolha de uma ou duas funcionalidades para desenvolver.** 
+Seu desafio é montar partes de um sistema de loja virtual entre funcionalidades e tópicos demonstrados. **Sugerimos a escolha de duas a quatro funcionalidades para desenvolver.** 
 
 Sugestões de funcionalidades a serem desenvolvidas:
 - Menu de Categorias
