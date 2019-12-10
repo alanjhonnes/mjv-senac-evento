@@ -2,7 +2,10 @@
 
 Seu desafio é montar partes de um sistema de loja virtual entre funcionalidades e tópicos demonstrados. 
 
-O objetivo do teste é montar parte(s) de um sistema de loja virtual e **atingir uma somatória de 100 pontos** entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. **Sugerimos a escolha de duas a quatro funcionalidades para desenvolver.** 
+O objetivo do teste é montar parte(s) de um sistema de loja virtual e **atingir uma somatória de pelo menos 100 pontos** entre funcionalidades e tópicos demonstrados. Portanto, não se preocupe em fazer todas as funcionalidades e tópicos listadas abaixo, foque nos que você tem mais conhecimento e facilidade. **Sugerimos a escolha de duas a quatro funcionalidades para desenvolver.**  
+
+Sugerimos a utilização da [IDE Gitpod](https://gitpod.io) para a realização do teste, ou se preferir, desenvolva localmente. 
+Para clonar os boilerplates, você precisará dar todas as permissões para o GitPod poder fazer o fork dos repositórios.
 
 Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuações máximas em parênteses:
 - Menu de Categorias  (20 pontos)
@@ -20,13 +23,13 @@ Sugestões de funcionalidades a serem desenvolvidas e as respectivas pontuaçõe
 
 **Para desenvolvedores Frontend** é esperado uma aplicação SPA, pode-se mockar os dados no front para simular requests e estados de carregamento/erros.
 
-**Para desenvolvedores Backend** pode-se fazer um sistema MVP ou uma API em GraphQL ou somente os endpoints REST(utilizar swagger se possível para documentar os endpoints) 
+**Para desenvolvedores Backend** pode-se fazer um sistema MVP ou uma API em GraphQL ou somente os endpoints REST(utilizar swagger se possível para documentação e teste de endpoints) 
 
 **Para desenvolvedores Full-stack**, é esperado uma aplicação MVC ou SPA consumindo um backend em GraphQL ou REST.
 
 ### Entregáveis
 
-Envie um e-mail para alan.sa@mjv.com.br com o link do github do seu projeto. Crie um arquivo README.md e descreva as funcionalidades que foram desenvolvidas e instruções para rodar e acessar o projeto. 
+Envie um e-mail para alan.sa@mjv.com.br com o link do github do seu projeto. Crie um arquivo README.md e descreva as funcionalidades que foram desenvolvidas e instruções para rodar e acessar o projeto. Se utilizar o GitPod, configurar para que o projeto rode via Docker na workspace do GitPod.
 
 Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Queremos que nos mostre o seu melhor, então selecione as funcionalidades e tópicos que mais lhe darão oportunidade para mostrar os seus conhecimentos.
 
@@ -61,8 +64,8 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 - Aplicar uso de linter p/ normalizar o estilo do projeto (ex: ESLint, TSLInt) (+5)
 
 **Testes**
-- Demonstrar conhecimento de testes unitários (+10)
-- Demonstrar conhecimento de mock p/ dependências de classe(+5)
+- Demonstrar conhecimento de testes unitários (+15)
+- Demonstrar conhecimento de mock p/ dependências de classe(+10)
 - Atingir bom nível de code-coverage com testes (+10)
 
 **Git**
@@ -146,7 +149,7 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 - Criação de endpoint GraphQL (+10)
 - Construir operações de Query (+10 p/ query)
 - Construir operações de Mutation (+10 p/ mutation)
-- Construir operações de Subscription (+10 p/ subscription)
+- Construir operações de Subscription (+15 p/ subscription)
 - Utilizar alguma união de tipo (+5)
 
 **REST**
@@ -155,25 +158,27 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 
 **Docker**
 - Configurar docker p/ as aplicações (+10)
+- Configurar GitPod.io para fazer o preview da aplicação automaticamente (+10)
+
+**Java/C#**
+- Uso de Enums (+5)
+- Uso de Generics (+10)
+- Uso de estruturas de loop (+5)
+- Uso de interfaces (+5)
+- Modificadores de acesso (public/private etc)
+- Uso de engine de template (Razor, Blazor, etc) (+10)
+- Uso de Threads (+15)
+- Uso de lambda-functions (+5)
+- Uso de Annotations (+10)
+- Uso de Collections (+5)
 
 **C#**
-- Uso de Enums
-- Uso de Tuplas
-- Uso de Generics
-- Uso de estruturas de loop
-- Uso de interfaces
-- Uso de engine de template (Razor, Blazor, etc)
-- Uso de Threads
-- Uso de `using` em bloco
-- Uso de dispose
-- Uso de LINQ
-- Uso de lambda-functions
-- Uso de argumentos out/ref
-- Modificadores de acesso (public/private etc)
-- Uso de Task e async/await
-- Uso de MVC
-- Uso de annotations
-- Uso de Collections
+- Uso de Dispose (+5)
+- Uso de LINQ (+10)
+- Uso de `using` em bloco (+5) 
+- Uso de argumentos out/ref (+5)
+- Uso de Task e async/await (+10)
+- Uso de Tuplas (+5)
 
 ### Ferramentas
 
@@ -184,19 +189,22 @@ Imagens de placeholder - http://lorempixel.com/
 Faça o fork de algum desses projetos para começar o desafio! 
 
 Frontend
-- [Angular](https://github.com/alanjhonnes/mjv-angular-gitpod)
-- [React](https://github.com/alanjhonnes/mjv-react-js-gitpod)
-- [React + TypeScript](https://github.com/alanjhonnes/mjv-react-ts-gitpod)
-- [Vue]() 
-- [Vue + TypeScript]()
+- [Angular](https://github.com/alanjhonnes/mjv-angular-gitpod) - [GitPod](https://gitpod.io/#https://github.com/mjv-angular-gitpod)
+- [React](https://github.com/alanjhonnes/mjv-react-js-gitpod) - [GitPod](https://gitpod.io/#https://github.com/mjv-react-js-gitpod)
+- [React + TypeScript](https://github.com/alanjhonnes/mjv-react-ts-gitpod) - [GitPod](https://gitpod.io/#https://github.com/mjv-react-ts-gitpod)
+- [Vue + TypeScript](https://github.com/alanjhonnes/mjv-vue-typescript) - [GitPod](https://gitpod.io/#https://github.com/mjv-vue-typescript)
+- [jQuery](https://github.com/mjv-jquery-typescript) - [GitPod](https://gitpod.io/#https://github.com/mjv-jquery-typescript)
 
+<!-- 
 BACKEND 
-- [Node.js express]()
-- [Node.js NestJs]()
-- [Java Springboot]()
-- [C#.Net Core]()
-- [PHP Symfony]()
-- [PHP Laravel]()
+Imagens em desenvolvimento
+
+- [Node.js express](https://github.com/alanjhonnes/)
+- [Node.js NestJs](https://github.com/alanjhonnes/)
+- [Java Springboot](https://github.com/alanjhonnes/)
+- [C#.Net Core](https://github.com/alanjhonnes/)
+- [PHP Symfony](https://github.com/alanjhonnes/)
+- [PHP Laravel](https://github.com/alanjhonnes/)
 
 Todos os boilerplates possuem bancos MYSQL, PostgreSQL e MONGODB para serem usados conforme a preferência. 
-
+-->
