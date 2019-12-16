@@ -126,24 +126,18 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 ## Tópicos de Backend:
 
 **Padrão**
-- Criação de aplicação backend 
-- Uso de banco de dados relacional/não relacional 
-- Script p/ estrutura do banco 
-- Script p/ popular banco 
-- Uso de Injeção de Dependência
-- Utilização de JSON Web Tokens p/ autenticação 
-- Validação de dados das requests
-- Utilização de ORM
-
-**NodeJS** 
-- Criação de aplicação NodeJS (+10)
+- Criação de aplicação backend (+10)
 - Uso de banco de dados relacional/não relacional (+10)
 - Script p/ estrutura do banco (+15)
 - Script p/ popular banco (+10)
-- Utilização de middlewares (+5)
+- Uso de Injeção de Dependência (+5)
 - Utilização de JSON Web Tokens p/ autenticação (+10)
 - Validação de dados das requests (+5)
-- Utilizar alguma ferramenta p/ auxilar o desenvolvimento (nodemon, node-dev, ts-node-dev, etc) (+3)
+- Utilização de ORM (+5)
+
+**REST**
+- Criação de endpoints REST p/ consumo do front (+5 p/ endpoint) 
+- Documentar a API com uso de Swagger (+10)
 
 **GraphQL**
 - Criação de endpoint GraphQL (+10)
@@ -152,13 +146,13 @@ Abaixo seguem os tópicos que gostariamos de ver de acordo com a stack usada. Qu
 - Construir operações de Subscription (+15 p/ subscription)
 - Utilizar alguma união de tipo (+5)
 
-**REST**
-- Criação de endpoints REST p/ consumo do front (+5 p/ endpoint) 
-- Documentar a API com uso de Swagger (+10)
-
 **Docker**
 - Configurar docker p/ as aplicações (+10)
 - Configurar GitPod.io para fazer o preview da aplicação automaticamente (+10)
+
+**NodeJS** 
+- Utilização de middlewares (+5)
+- Utilizar alguma ferramenta p/ auxilar o desenvolvimento (nodemon, node-dev, ts-node-dev, etc) (+3)
 
 **Java/C#**
 - Uso de Enums (+5)
@@ -188,14 +182,14 @@ Imagens de placeholder - http://lorempixel.com/
 
 Faça o fork de algum desses projetos para começar o desafio! 
 
-Frontend
+#### Frontend
 - [Angular](https://github.com/alanjhonnes/mjv-angular-gitpod) - [GitPod](https://gitpod.io/#https://github.com/mjv-angular-gitpod)
 - [React](https://github.com/alanjhonnes/mjv-react-js-gitpod) - [GitPod](https://gitpod.io/#https://github.com/mjv-react-js-gitpod)
 - [React + TypeScript](https://github.com/alanjhonnes/mjv-react-ts-gitpod) - [GitPod](https://gitpod.io/#https://github.com/mjv-react-ts-gitpod)
 - [Vue + TypeScript](https://github.com/alanjhonnes/mjv-vue-typescript) - [GitPod](https://gitpod.io/#https://github.com/mjv-vue-typescript)
 - [jQuery](https://github.com/mjv-jquery-typescript) - [GitPod](https://gitpod.io/#https://github.com/mjv-jquery-typescript)
 
-BACKEND 
+#### Backend
 
 - [Node.js express](https://github.com/alanjhonnes/mjv-express-gitpod)
 - [Node.js NestJs](https://github.com/alanjhonnes/mjv-nestjs-gitpod)
