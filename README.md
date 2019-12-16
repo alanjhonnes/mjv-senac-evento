@@ -195,16 +195,13 @@ Frontend
 - [Vue + TypeScript](https://github.com/alanjhonnes/mjv-vue-typescript) - [GitPod](https://gitpod.io/#https://github.com/mjv-vue-typescript)
 - [jQuery](https://github.com/mjv-jquery-typescript) - [GitPod](https://gitpod.io/#https://github.com/mjv-jquery-typescript)
 
-<!-- 
 BACKEND 
-Imagens em desenvolvimento
 
-- [Node.js express](https://github.com/alanjhonnes/)
-- [Node.js NestJs](https://github.com/alanjhonnes/)
-- [Java Springboot](https://github.com/alanjhonnes/)
-- [C#.Net Core](https://github.com/alanjhonnes/)
-- [PHP Symfony](https://github.com/alanjhonnes/)
-- [PHP Laravel](https://github.com/alanjhonnes/)
+- [Node.js express](https://github.com/alanjhonnes/mjv-express-gitpod)
+- [Node.js NestJs](https://github.com/alanjhonnes/mjv-nestjs-gitpod)
+- [Java Springboot - em desenvolvimento](https://github.com/alanjhonnes/mjv-springboot-gitpod)
+- [C#.Net Core - em desenvolvimento](https://github.com/alanjhonnes/mjv-dotnetcore-gitpod)
+- [PHP Symfony](https://github.com/alanjhonnes/mjv-symfony-gitpod)
+- [PHP Laravel - em desenvolvimento](https://github.com/alanjhonnes/mjv-laravel-gipod)
 
 Todos os boilerplates possuem bancos MYSQL, PostgreSQL e MONGODB para serem usados conforme a preferência. 
--->
