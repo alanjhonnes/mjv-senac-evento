@@ -204,4 +204,4 @@ BACKEND
 - [PHP Symfony](https://github.com/alanjhonnes/mjv-symfony-gitpod)
 - [PHP Laravel - em desenvolvimento](https://github.com/alanjhonnes/mjv-laravel-gipod)
 
-Todos os boilerplates possuem bancos MYSQL, PostgreSQL e MONGODB para serem usados conforme a preferência. 
+Todos os boilerplates possuem bancos PostgreSQL e MONGODB para serem usados conforme a preferência. 
