@@ -183,19 +183,19 @@ Imagens de placeholder - http://lorempixel.com/
 Faça o fork de algum desses projetos para começar o desafio! 
 
 #### Frontend
-- [Angular](https://github.com/alanjhonnes/mjv-angular-gitpod) - [GitPod](https://gitpod.io/#https://github.com/mjv-angular-gitpod)
-- [React](https://github.com/alanjhonnes/mjv-react-js-gitpod) - [GitPod](https://gitpod.io/#https://github.com/mjv-react-js-gitpod)
-- [React + TypeScript](https://github.com/alanjhonnes/mjv-react-ts-gitpod) - [GitPod](https://gitpod.io/#https://github.com/mjv-react-ts-gitpod)
-- [Vue + TypeScript](https://github.com/alanjhonnes/mjv-vue-typescript) - [GitPod](https://gitpod.io/#https://github.com/mjv-vue-typescript)
-- [jQuery](https://github.com/mjv-jquery-typescript) - [GitPod](https://gitpod.io/#https://github.com/mjv-jquery-typescript)
+- [Angular](https://github.com/alanjhonnes/mjv-angular-gitpod) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-angular-gitpod)
+- [React](https://github.com/alanjhonnes/mjv-react-js-gitpod) - [GitPod](https://github.com/alanjhonnes/mjv-react-js-gitpod)
+- [React + TypeScript](https://github.com/alanjhonnes/mjv-react-ts-gitpod) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-react-ts-gitpod)
+- [Vue + TypeScript](https://github.com/alanjhonnes/mjv-vue-typescript) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-vue-typescript)
+- [jQuery](https://github.com/alanjhonnes/mjv-jquery-typescript) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-jquery-typescript)
 
 #### Backend
 
-- [Node.js express](https://github.com/alanjhonnes/mjv-express-gitpod)
-- [Node.js NestJs](https://github.com/alanjhonnes/mjv-nestjs-gitpod)
-- [Java Springboot - em desenvolvimento](https://github.com/alanjhonnes/mjv-springboot-gitpod)
-- [C#.Net Core - em desenvolvimento](https://github.com/alanjhonnes/mjv-dotnetcore-gitpod)
-- [PHP Symfony](https://github.com/alanjhonnes/mjv-symfony-gitpod)
-- [PHP Laravel - em desenvolvimento](https://github.com/alanjhonnes/mjv-laravel-gipod)
+- [Node.js express](https://github.com/alanjhonnes/mjv-express-gitpod) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-express-gitpod)
+- [Node.js NestJs](https://github.com/alanjhonnes/mjv-nestjs-gitpod) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-nestjs-gitpod)
+- [Java Springboot - em desenvolvimento](https://github.com/alanjhonnes/mjv-springboot-gitpod) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-springboot-gitpod)
+- [C#.Net Core - em desenvolvimento](https://github.com/alanjhonnes/mjv-dotnetcore-gitpod) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-dotnetcore-gitpod)
+- [PHP Symfony](https://github.com/alanjhonnes/mjv-symfony-gitpod) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-symfony-gitpod)
+- [PHP Laravel - em desenvolvimento](https://github.com/alanjhonnes/mjv-laravel-gipod) - [GitPod](https://gitpod.io/#https://github.com/alanjhonnes/mjv-laravel-gitpod)
 
 Todos os boilerplates possuem bancos PostgreSQL e MONGODB para serem usados conforme a preferência. 
