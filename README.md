@@ -1,4 +1,4 @@
-# Desafio MJV 
+# Desafio 
 
 Seu desafio é montar partes de um sistema de loja virtual entre funcionalidades e tópicos demonstrados. 
 
